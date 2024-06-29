@@ -16,7 +16,7 @@ console.log(id === anotherId); // o/p => false even though in both the values ar
 const heroes = ["Homelander", "Soldier Boy", "Billy Butcher"] // array
 //*****************Objects****************** things inside curly braces are objects, datatypes can be anything: string, number, array, boolean,function ,etc.
 let myObj = {
-    name: "Anik"
+    name: "Anik",
     age: 22
 }
 //*****************Function*****************
